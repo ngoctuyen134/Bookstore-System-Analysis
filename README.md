@@ -26,7 +26,5 @@ Dự án cung cấp báo cáo chi tiết về phân tích và thiết kế cho *
 - **Nguyễn Ngọc Hậu**: Phân tích hệ thống, đánh giá thiết kế.
 - **Nguyễn Huỳnh Ngọc Tuyền**: Phân tích hệ thống, thiết kế và chỉnh sửa giao diện.
 
-## Giấy Phép
-Dự án được phát hành dưới giấy phép MIT (MIT License).
 
 
